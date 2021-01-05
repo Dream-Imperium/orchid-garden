@@ -64,7 +64,7 @@ Plugin | Description
 [`lfautoinsert`](plugins/lfautoinsert.lua?raw=1) | Automatically inserts indentation and closing bracket/text after newline
 [`linecopypaste`](plugins/linecopypaste.lua?raw=1) | Copy, cut and paste the current line when nothing is selected
 [`lineguide`](plugins/lineguide.lua?raw=1) | Displays a line-guide at the line limit offset
-[`linter`](https://github.com/drmargarido/linters)* | Linters for multiple languages
+[`linter`](plugins/linter.lua?raw=1)* | Linters 
 [`macmodkeys`](plugins/macmodkeys.lua?raw=1) | Remaps mac modkeys `command/option` to `ctrl/alt`
 [`markers`](plugins/markers.lua?raw=1) | Add markers to docs and jump between them quickly
 [`motiontrail`](plugins/motiontrail.lua?raw=1) | Adds a motion-trail to the caret 
