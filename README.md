@@ -16,7 +16,7 @@ Plugin | Description
 [`bracketmatch`](plugins/bracketmatch.lua?raw=1) | Underlines matching pair for bracket under the caret
 [`centerdoc`](plugins/centerdoc.lua?raw=1) | Centers document's content on the screen
 [`colorpreview`](plugins/colorpreview.lua?raw=1) | Underlays color values (eg. `#ff00ff` or `rgb(255, 0, 255)`) with their resultant color. 
-[`console`](https://github.com/rxi/console)* | A console for running external commands and capturing their output
+[`console`](plugins/console.lua?raw=1)* | A console for running external commands and capturing their output
 [`copyfilelocation`](plugins/copyfilelocation.lua?raw=1) | Copy file location to clipboard
 [`datetimestamps`](plugins/datetimestamps.lua?raw=1) | Insert date-, time- and date-time-stamps
 [`detectindent`](plugins/detectindent.lua?raw=1) | Automatically detects and uses the indentation size and tab type of a loaded file
